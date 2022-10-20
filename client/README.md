@@ -4,7 +4,7 @@ This example shows a grpc web client using tonic and yew.
 ## Setup
 1. Ensure the wasm32 target exists `rustup target add wasm32-unknown-unknown`.
 2. prost_build needs the PROTOC environment variable to point to the [protoc compiler](https://github.com/protocolbuffers/protobuf/releases/latest).
-3. Install tonic for bundling and serving yew.
+3. Install trunk for bundling and serving yew. [Instructions here.](https://trunkrs.dev/)
 
 ## Run
 1. Run `trunk serve`.
