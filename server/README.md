@@ -17,8 +17,5 @@ This example shows a grpc server using tonic with grpc web support.
 ## Generated Code
 The generated code will be located at ./output.
 
-#### Yew Docs
-[Yew Docs](https://yew.rs/docs/next/getting-started/introduction)
-
 ### TLS?
 TLS should work although I have not tested it. [See here](https://github.com/devashishdxt/tonic-web-wasm-client/pull/14/commits/28729e9bac3bfbfbbb0b89c6db32e208a8b80036).
