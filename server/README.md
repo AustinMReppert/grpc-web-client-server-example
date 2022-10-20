@@ -2,7 +2,7 @@
 This example shows a grpc server using tonic with grpc web support.
 
 ## Setup
-1. prost_build needs the PROTOC environment variable to point to the [protoc compile](https://github.com/protocolbuffers/protobuf/releases/latest).
+1. prost_build needs the PROTOC environment variable to point to the [protoc compiler](https://github.com/protocolbuffers/protobuf/releases/latest).
 
 ## Run
 1. Run `cargo run`.
